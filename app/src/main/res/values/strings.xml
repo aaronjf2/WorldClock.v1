@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CS125 Final Project v1</string>
+    <string name="spinner_text_default">Select city</string>
+</resources>
